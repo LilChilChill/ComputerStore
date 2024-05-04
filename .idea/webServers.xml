@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="10f2af46-adf2-48f4-9557-a11ebae1d723" name="maytinh" url="http://maytinh.headbull.site">
+        <fileTransfer rootFolder="/domains/maytinh.headbull.site/public_html" host="maytinh.headbull.site" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
